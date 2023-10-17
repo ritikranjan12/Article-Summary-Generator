@@ -3,7 +3,7 @@ const Hero = () => {
   return (
     <header className='flex w-full flex-col justify-center items-center'>
        <nav className='flex justify-between items-center w-full mb-10 pt-3'>
-        <img src={logo} alt="logo" className='w-28 object-contain'/>
+        <img src={logo} alt="logo" className='w-28 object-contain rounded-full'/>
         <button 
           type='button'
           className='black_btn'
