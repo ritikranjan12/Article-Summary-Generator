@@ -112,7 +112,7 @@
 }
 
 .blue_gradient {
-  @apply font-black bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent;
+  @apply font-black bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent;
 }
 
 .summary_box {
