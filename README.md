@@ -1,8 +1,13 @@
-# React + Vite
+# Article Summary Generator 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ It generates summary of your article.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### How to use
+
+- Copy the link of the Article
+- Paste in the search box
+- Press Enter
+- You will get the Summary of the Article
+
+### <https://articlesummarygenerator.vercel.app/>(Live App) 
