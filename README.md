@@ -1,13 +1,13 @@
 # Article Summary Generator 
 
- It generates summary of your article.
+ It generates a summary of your article.
 
 
-### How to use
+## How to use
 
-- Copy the link of the Article
+- Copy the link to the Article
 - Paste in the search box
 - Press Enter
 - You will get the Summary of the Article
 
-### <https://articlesummarygenerator.vercel.app/>(Live App) 
+### Live App - <https://articlesummarygenerator.vercel.app> 
