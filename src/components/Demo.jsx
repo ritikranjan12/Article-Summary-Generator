@@ -22,8 +22,9 @@ const Demo = () => {
   const handleSubmit = async(e) => {
     e.preventDefault()  
     const {data} = await getSummary({articleUrl: article.url})
-    toast.success('Summary Generated Successfully!')
+    
       if(data?.summary) {
+        toast.success('Summary Generated Successfully!')
         const newArticle = {...article,summary:data.summary}
         const uploadAllArticles = [newArticle, ...allArticles]
         
